@@ -47,10 +47,10 @@ Initialize plugin:
 	    });
     })
 #####maxwidth
-Default: 768 - Max width of the slider, is usefull set a maxwidth to avoid recalcs on tablet between portrait view and landscape view, 768px is ipad width on portrait, this means that the slides has same ratio also on landscape.
+Default: 768 - Max width of the slider. Is usefull set a maxwidth to avoid recalcs on tablet between portrait view and landscape view. 768px is iPad's width in portrait, this means that the slides have same size also in landscape view.
 
 #####height
-Default: 400 - Height of the slider in pixelsù
+Default: 400 - Height of the slider in pixels.
 
 #####speed
 Default: 200 - Animation speed in milliseconds.
